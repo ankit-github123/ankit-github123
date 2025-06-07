@@ -31,3 +31,29 @@
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-000000?style=flat-square&logo=socket.io&logoColor=white" />
 </p>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">🚀 Project</th>
+      <th align="left">🧠 Tech Stack</th>
+      <th align="left">💡 Highlight</th>
+      <th align="center">📊 Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.filesbot.in/"><b>Filesbot.in</b></a></td>
+      <td>Next.js, Node.js, LangChain, OpenAI, AWS</td>
+      <td>AI PDF bot that chats with your documents 🤖📄</td>
+      <td align="center">Live 🚀 | 1K+ users</td>
+    </tr>
+    <tr>
+      <td><a href="https://datalytix-01.web.app/"><b>Datalytix</b></a></td>
+      <td>React, Node.js, MongoDB, TypeScript</td>
+      <td>Location insights with heatmaps & business data 🌍</td>
+      <td align="center">Live ✅</td>
+    </tr>
+    
+  </tbody>
+</table>
