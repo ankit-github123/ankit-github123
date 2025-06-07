@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
-<!--
-**ankit-github123/ankit-github123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Welcome to my page! <br> I'm <b>Ankit</b>, a full-stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>India</b>, currently vibing in <b>Bangalore</b> — city of tech, code & coffee ☕.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Things I code with</h3>
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-38b2ac?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/-MUI-764ABC?style=flat-square&logo=mui&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-000000?style=flat-square&logo=socket.io&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-007ACC?style=flat-square&logo=postgresql&logoColor=white" />
+  
+  <!-- Added badges with given colors -->
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-0C4A6E?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/-AWS_Lambda-F59E0B?style=flat-square&logo=aws-lambda&logoColor=white" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+  <img alt="Amazon EC2" src="https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+  <img alt="CloudFront" src="https://img.shields.io/badge/-CloudFront-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="SNS" src="https://img.shields.io/badge/-SNS-FBBF24?style=flat-square&logo=amazon-sns&logoColor=black" />
+</p>
