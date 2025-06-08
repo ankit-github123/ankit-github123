@@ -32,28 +32,35 @@
   <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-000000?style=flat-square&logo=socket.io&logoColor=white" />
 </p>
 <h3>🔨 What I’ve Built</h3>
+<h3>🔨 What I’ve Built</h3>
+
 <table>
   <thead>
     <tr>
       <th align="left">🚀 Project</th>
       <th align="left">🧠 Tech Stack</th>
       <th align="left">💡 Highlight</th>
-      <th align="center">📊 Status</th>
+      <th align="left">📈 Impact / Achievement</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://www.filesbot.in/"><b>Filesbot.in</b></a></td>
       <td>Next.js, Node.js, LangChain, OpenAI, AWS</td>
-      <td>AI PDF bot that chats with your documents 🤖📄</td>
-      <td align="center">Live 🚀 | 1K+ users</td>
+      <td>AI-powered PDF analysis bot with real-time Q&A</td>
+      <td>Saved 100s of hours for users by summarizing docs instantly ⚡</td>
     </tr>
     <tr>
       <td><a href="https://datalytix-01.web.app/"><b>Datalytix</b></a></td>
       <td>React, Node.js, MongoDB, TypeScript</td>
-      <td>Location insights with heatmaps & business data 🌍</td>
-      <td align="center">Live ✅</td>
+      <td>City analysis with footfall & business heatmaps</td>
+      <td>Helped startups choose optimal locations with data 📊</td>
     </tr>
-    
+      <tr>
+      <td><a href="https://ai-rich-text-editor.vercel.app/"><b>AI Rich Text Editor</b></a></td>
+      <td>Next.js, Tailwind, OpenAI, React Hook Form</td>
+      <td>Text editor with AI-assisted writing built-in ✍️🤖</td>
+      <td>Auto-generates smart messages, emails, replies — inside the editor 💬✨</td>
+    </tr>
   </tbody>
 </table>
